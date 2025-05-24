@@ -1,6 +1,6 @@
 # Sync'd - Memory Matching Game
 
-![Sync'd Game](https://example.com/game-screenshot.png)
+![Sync'd Game](https://github.com/the-wilful-youth/Sync-d/raw/main/public/screenshot.png)
 
 ## 🎮 About Sync'd
 
@@ -18,16 +18,16 @@ Sync'd is an engaging memory matching game where players test their recall abili
 
 ### Prerequisites
 
-- Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- [Node.js](https://nodejs.org/) & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ### Installation
 
 ```sh
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/the-wilful-youth/Sync-d.git
 
 # Navigate to the project directory
-cd sync-d-game  # or your project folder name
+cd Sync-d
 
 # Install dependencies
 npm install
@@ -57,17 +57,17 @@ npm run dev
 
 This project can be deployed to any static hosting service:
 
-- Vercel
-- Netlify
-- GitHub Pages
-- AWS Amplify
-- Firebase Hosting
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [AWS Amplify](https://aws.amazon.com/amplify/)
+- [Firebase Hosting](https://firebase.google.com/docs/hosting)
 
 ## 🔗 Custom Domain Setup
 
 You can connect a custom domain to your Sync'd game through your hosting provider:
 
-1. Purchase a domain from a domain registrar (Namecheap, GoDaddy, etc.)
+1. Purchase a domain from a domain registrar ([Namecheap](https://www.namecheap.com/), [GoDaddy](https://www.godaddy.com/), etc.)
 2. Configure DNS settings according to your hosting provider's instructions
 3. Set up SSL certificates for secure connections
 
@@ -80,12 +80,12 @@ You can connect a custom domain to your Sync'd game through your hosting provide
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit pull requests or open issues to improve the game.
+Contributions are welcome! Feel free to submit pull requests or open issues to improve the game on the [GitHub repository](https://github.com/the-wilful-youth/Sync-d).
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/the-wilful-youth/Sync-d/blob/main/LICENSE) file for details.
 
 ---
 
-Made with ❤️ by Anurag
+Made with ❤️ by [Anurag](https://github.com/the-wilful-youth)
