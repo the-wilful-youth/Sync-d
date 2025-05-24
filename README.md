@@ -1,6 +1,6 @@
 # Sync'd - Memory Matching Game
 
-![Sync'd Game](https://github.com/the-wilful-youth/Sync-d/raw/main/public/screenshot.png)
+🔗 **[Play Sync'd Online](https://sync-d-dun.vercel.app/)**
 
 ## 🎮 About Sync'd
 
